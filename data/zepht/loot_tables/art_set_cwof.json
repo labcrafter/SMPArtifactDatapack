@@ -1,0 +1,116 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Witch's Flower of Blaze","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eFlower of Life","italic": false},
+
+                {"text": "§fSet: §rCrimson Witch of Flames","color": "#D90042", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains pyro charges while on fire.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder can crouch when at 5 charges and","italic": false},
+                {"text": "§fconsume them to summon a fireball.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_CWoF:1b, HideFlags:32 ,artefact:1b, arte_flower:1b, CustomModelData:71301}"
+            }]}]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Witch's Ever-Burning Plume","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §ePlume of Death","italic": false},
+
+                {"text": "§fSet: §rCrimson Witch of Flames","color": "#D90042", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains pyro charges while on fire.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder can crouch when at 5 charges and","italic": false},
+                {"text": "§fconsume them to summon a fireball.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_CWoF:1b, HideFlags:32 ,artefact:1b, arte_feather:1b, CustomModelData:71302}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Witch's End Time","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eSands of Eon","italic": false},
+
+                {"text": "§fSet: §rCrimson Witch of Flames","color": "#D90042", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains pyro charges while on fire.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder can crouch when at 5 charges and","italic": false},
+                {"text": "§fconsume them to summon a fireball.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_CWoF:1b, HideFlags:32 ,artefact:1b, arte_clock:1b, CustomModelData:71303}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Witch's Heart Flames","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eGoblet of Eonothem","italic": false},
+
+                {"text": "§fSet: §rCrimson Witch of Flames","color": "#D90042", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains pyro charges while on fire.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder can crouch when at 5 charges and","italic": false},
+                {"text": "§fconsume them to summon a fireball.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_CWoF:1b, HideFlags:32 ,artefact:1b, arte_cup:1b, CustomModelData:71304}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Witch's Scorching Hat","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eCirclet of Logos","italic": false},
+
+                {"text": "§fSet: §rCrimson Witch of Flames","color": "#D90042", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains pyro charges while on fire.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder can crouch when at 5 charges and","italic": false},
+                {"text": "§fconsume them to summon a fireball.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_CWoF:1b, HideFlags:32 ,artefact:1b, arte_crown:1b, CustomModelData:71305}"
+            }]}]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "rewards": {
+    "function": "zepht:trigger_fall_from_height"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:fall_from_height",
+      "conditions": { 
+        "distance": {
+          "y": {
+            "min": 2.9,
+            "max": 320
+            }
+          }
+      }
+    }
+  }
+}

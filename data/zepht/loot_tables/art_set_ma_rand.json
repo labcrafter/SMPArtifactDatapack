@@ -1,0 +1,94 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Martial Artist's Red Flower","color": "aqua","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eFlower of Life","italic": false},
+
+                {"text": "§fSet: §rMartial Artist","color": "#FFD68F", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐","color": "aqua","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains 15 armor if wearing no armor.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder gains Strength while empty handed.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_MA:1b, HideFlags:32 ,artefact:1b, arte_flower:1b, CustomModelData:71201}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Martial Artist's Feather Accessory","color": "aqua","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §ePlume of Death","italic": false},
+
+                {"text": "§fSet: §rMartial Artist","color": "#FFD68F", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐","color": "aqua","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains 15 armor if wearing no armor.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder gains Strength while empty handed.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_MA:1b, HideFlags:32 ,artefact:1b, arte_feather:1b, CustomModelData:71202}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Martial Artist's Water Hourglass","color": "aqua","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eSands of Eon","italic": false},
+
+                {"text": "§fSet: §rMartial Artist","color": "#FFD68F", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐","color": "aqua","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains 15 armor if wearing no armor.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder gains Strength while empty handed.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_MA:1b, HideFlags:32 ,artefact:1b, arte_clock:1b, CustomModelData:71203}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Martial Artist's Wine Cup","color": "aqua","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eGoblet of Eonothem","italic": false},
+
+                {"text": "§fSet: §rMartial Artist","color": "#FFD68F", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐","color": "aqua","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains 15 armor if wearing no armor.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder gains Strength while empty handed.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_MA:1b, HideFlags:32 ,artefact:1b, arte_cup:1b, CustomModelData:71204}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Martial Artist's Bandana","color": "aqua","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eCirclet of Logos","italic": false},
+
+                {"text": "§fSet: §rMartial Artist","color": "#FFD68F", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐","color": "aqua","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains 15 armor if wearing no armor.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder gains Strength while empty handed.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_MA:1b, HideFlags:32 ,artefact:1b, arte_crown:1b, CustomModelData:71205}"
+            }]}]
+    }
+  ]
+}

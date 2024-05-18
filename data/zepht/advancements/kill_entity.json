@@ -1,0 +1,10 @@
+{
+  "rewards": {
+    "function": "zepht:trigger_kill_entity"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_killed_entity"
+    }
+  }
+}

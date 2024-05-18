@@ -1,0 +1,116 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Guilded Corsage","color": "#863FA4","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eFlower of Life","italic": false},
+
+                {"text": "§fSet: §rHeart of Depth","color": "#BC3100", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐","color": "#863FA4","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder will gain water breathing.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder will lose water breathing ","italic": false},
+                {"text": "§fand instead gains conduit power and dolphins grace.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_flower:1b, arteset_HoD:1b, CustomModelData:70501}"
+            }]}]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Gust of Nostalgia","color": "#863FA4","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §ePlume of Death","italic": false},
+
+                {"text": "§fSet: §rHeart of Depth","color": "#BC3100", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐","color": "#863FA4","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder will gain water breathing.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder will lose water breathing ","italic": false},
+                {"text": "§fand instead gains conduit power and dolphins grace.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_feather:1b, arteset_HoD:1b, CustomModelData:70502}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Copper Compass","color": "#863FA4","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eSands of Eon","italic": false},
+
+                {"text": "§fSet: §rHeart of Depth","color": "#BC3100", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐","color": "#863FA4","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder will gain water breathing.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder will lose water breathing ","italic": false},
+                {"text": "§fand instead gains conduit power and dolphins grace.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_clock:1b, arteset_HoD:1b, CustomModelData:70503}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Goblet of Thundering Deep","color": "#863FA4","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eGoblet of Eonothem","italic": false},
+
+                {"text": "§fSet: §rHeart of Depth","color": "#BC3100", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐","color": "#863FA4","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder will gain water breathing.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder will lose water breathing ","italic": false},
+                {"text": "§fand instead gains conduit power and dolphins grace.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_cup:1b, arteset_HoD:1b, CustomModelData:70504}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Wine-Stained Tricone","color": "#863FA4","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eCirclet of Logos","italic": false},
+
+                {"text": "§fSet: §rHeart of Depth","color": "#BC3100", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐","color": "#863FA4","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder will gain water breathing.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder will lose water breathing ","italic": false},
+                {"text": "§fand instead gains conduit power and dolphins grace.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_crown:1b, arteset_HoD:1b, CustomModelData:70505}"
+            }]}]
+    }
+  ]
+}

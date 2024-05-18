@@ -1,0 +1,22 @@
+{
+  "rewards": {
+    "function": "zepht:trigger_hit_projectile"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:damage_source_properties",
+            "predicate": {
+              "is_projectile": true
+            }
+          }
+        ]
+      }
+    }
+  }
+    
+  
+}

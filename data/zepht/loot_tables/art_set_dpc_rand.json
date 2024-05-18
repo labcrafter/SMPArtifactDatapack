@@ -1,0 +1,99 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "The First Days of the City of Kings","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eFlower of Life","italic": false},
+
+                {"text": "§fSet: §rDesert Pavilion Chronicles","color": "#89FFE1", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder is given Jump Boost 3.","italic": false},
+                {"text": "§f§n4-Piece:§f If the Wielder jumps and crouches","italic": false},
+                {"text": "§fwhen landing, spikes will rise from the ground.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_flower:1b, arteset_DPC:1b, CustomModelData:70301}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "End of the Golden Realm","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §ePlume of Death","italic": false},
+
+                {"text": "§fSet: §rDesert Pavilion Chronicles","color": "#89FFE1", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder is given Jump Boost 3.","italic": false},
+                {"text": "§f§n4-Piece:§f If the Wielder jumps and crouches","italic": false},
+                {"text": "§fwhen landing, spikes will rise from the ground.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_feather:1b, arteset_DPC:1b, CustomModelData:70302}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Timepiece of the Lost Path","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eSands of Eon","italic": false},
+
+                {"text": "§fSet: §rDesert Pavilion Chronicles","color": "#89FFE1", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder is given Jump Boost 3.","italic": false},
+                {"text": "§f§n4-Piece:§f If the Wielder jumps and crouches","italic": false},
+                {"text": "§fwhen landing, spikes will rise from the ground.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_clock:1b, arteset_DPC:1b, CustomModelData:70303}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Defender of the Enchanting Dream","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eGoblet of Eonothem","italic": false},
+
+                {"text": "§fSet: §rDesert Pavilion Chronicles","color": "#89FFE1", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder is given Jump Boost 3.","italic": false},
+                {"text": "§f§n4-Piece:§f If the Wielder jumps and crouches","italic": false},
+                {"text": "§fwhen landing, spikes will rise from the ground.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_cup:1b, arteset_DPC:1b, CustomModelData:70304}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Legacy of the Desert High-Born","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eCirclet of Logos","italic": false},
+
+                {"text": "§fSet: §rDesert Pavilion Chronicles","color": "#89FFE1", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder is given Jump Boost 3.","italic": false},
+                {"text": "§f§n4-Piece:§f If the Wielder jumps and crouches","italic": false},
+                {"text": "§fwhen landing, spikes will rise from the ground.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_crown:1b, arteset_DPC:1b, CustomModelData:70305}"
+            }]}]
+    }
+  ]
+}

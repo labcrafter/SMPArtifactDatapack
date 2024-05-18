@@ -1,0 +1,94 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "In Rememberence of Viridescent Fields","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eFlower of Life","italic": false},
+
+                {"text": "§fSet: §rViridescent Venerer","color": "#00EB8A", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains slow fall when crouching.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder gains speed 2 and haste.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_flower:1b, arteset_VV:1b, CustomModelData:70201}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Viridescent Arrow Feather","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §ePlume of Death","italic": false},
+
+                {"text": "§fSet: §rViridescent Venerer","color": "#00EB8A", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains slow fall when crouching.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder gains speed 2 and haste.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_feather:1b, arteset_VV:1b, CustomModelData:70202}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Viridescent Venerer's Determination","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eSands of Eon","italic": false},
+
+                {"text": "§fSet: §rViridescent Venerer","color": "#00EB8A", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains slow fall when crouching.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder gains speed 2 and haste.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_clock:1b, arteset_VV:1b, CustomModelData:70203}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Viridescent Venerer's Vessel","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eGoblet of Eonothem","italic": false},
+
+                {"text": "§fSet: §rViridescent Venerer","color": "#00EB8A", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains slow fall when crouching.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder gains speed 2 and haste.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_cup:1b, arteset_VV:1b, CustomModelData:70204}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Viridescent Venerer's Diadem","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eCirclet of Logos","italic": false},
+
+                {"text": "§fSet: §rViridescent Venerer","color": "#00EB8A", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains slow fall when crouching.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder gains speed 2 and haste.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_crown:1b, arteset_VV:1b, CustomModelData:70205}"
+            }]}]
+    }
+  ]
+}

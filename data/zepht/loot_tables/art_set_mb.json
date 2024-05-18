@@ -1,0 +1,116 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Maiden's Distant Love","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eFlower of Life","italic": false},
+
+                {"text": "§fSet: §rMaiden Beloved","color": "#FFAEB3", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains additional health.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an entity,","italic": false},
+                {"text": "§fWielder will recover health.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_MB:1b, HideFlags:32 ,artefact:1b, arte_flower:1b, CustomModelData:70801}"
+            }]}]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Maiden's Heart-Stricken Infatuation","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §ePlume of Death","italic": false},
+
+                {"text": "§fSet: §rMaiden Beloved","color": "#FFAEB3", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains additional health.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an entity,","italic": false},
+                {"text": "§fWielder will recover health.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_MB:1b, HideFlags:32 ,artefact:1b, arte_feather:1b, CustomModelData:70802}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Maiden's Passing Youth","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eSands of Eon","italic": false},
+
+                {"text": "§fSet: §rMaiden Beloved","color": "#FFAEB3", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains additional health.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an entity,","italic": false},
+                {"text": "§fWielder will recover health.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_MB:1b, HideFlags:32 ,artefact:1b, arte_clock:1b, CustomModelData:70803}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Maiden's Fleeting Leisure","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eGoblet of Eonothem","italic": false},
+
+                {"text": "§fSet: §rMaiden Beloved","color": "#FFAEB3", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains additional health.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an entity,","italic": false},
+                {"text": "§fWielder will recover health.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_MB:1b, HideFlags:32 ,artefact:1b, arte_cup:1b, CustomModelData:70804}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Maiden's Fading Beauty","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eCirclet of Logos","italic": false},
+
+                {"text": "§fSet: §rMaiden Beloved","color": "#FFAEB3", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains additional health.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an entity,","italic": false},
+                {"text": "§fWielder will recover health.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_MB:1b, HideFlags:32 ,artefact:1b, arte_crown:1b, CustomModelData:70805}"
+            }]}]
+    }
+  ]
+}

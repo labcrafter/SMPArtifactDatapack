@@ -1,0 +1,94 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Travelling Doctor's Silver Lotus","color": "#5cf46d","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eFlower of Life","italic": false},
+
+                {"text": "§fSet: §rTravelling Doctor","color": "#7AC8FF", "italic": false},
+                {"text": "§fRarity: §r⭐⭐","color": "#5cf46d","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains additional health.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder heals upon drinking any potion.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_TD:1b, HideFlags:32 ,artefact:1b, arte_flower:1b, CustomModelData:71101}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Travelling Doctor's Owl Feather","color": "#5cf46d","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §ePlume of Death","italic": false},
+
+                {"text": "§fSet: §rTravelling Doctor","color": "#7AC8FF", "italic": false},
+                {"text": "§fRarity: §r⭐⭐","color": "#5cf46d","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains additional health.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder heals upon drinking any potion.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_TD:1b, HideFlags:32 ,artefact:1b, arte_feather:1b, CustomModelData:71102}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Travelling Doctor's Pocket Watch","color": "#5cf46d","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eSands of Eon","italic": false},
+
+                {"text": "§fSet: §rTravelling Doctor","color": "#7AC8FF", "italic": false},
+                {"text": "§fRarity: §r⭐⭐","color": "#5cf46d","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains additional health.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder heals upon drinking any potion.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_TD:1b, HideFlags:32 ,artefact:1b, arte_clock:1b, CustomModelData:71103}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Travelling Doctor's Medicine Pot","color": "#5cf46d","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eGoblet of Eonothem","italic": false},
+
+                {"text": "§fSet: §rTravelling Doctor","color": "#7AC8FF", "italic": false},
+                {"text": "§fRarity: §r⭐⭐","color": "#5cf46d","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains additional health.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder heals upon drinking any potion.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_TD:1b, HideFlags:32 ,artefact:1b, arte_cup:1b, CustomModelData:71104}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Travelling Doctor's Handkerchief","color": "#5cf46d","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eCirclet of Logos","italic": false},
+
+                {"text": "§fSet: §rTravelling Doctor","color": "#7AC8FF", "italic": false},
+                {"text": "§fRarity: §r⭐⭐","color": "#5cf46d","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains additional health.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder heals upon drinking any potion.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_TD:1b, HideFlags:32 ,artefact:1b, arte_crown:1b, CustomModelData:71105}"
+            }]}]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Bloodstained Flower of Iron","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eFlower of Life","italic": false},
+
+                {"text": "§fSet: §rBloodstained Chivalry","color": "Dark Red", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Strength.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an enemy, the Wielder","italic": false},
+                {"text": "§fgains Speed and Saturation for 10 seconds.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_flower:1b, arteset_BC:1b, CustomModelData:70101}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Bloodstained Black Plume","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §ePlume of Death","italic": false},
+
+                {"text": "§fSet: §rBloodstained Chivalry","color": "Dark Red", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Strength.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an enemy, the Wielder","italic": false},
+                {"text": "§fgains Speed and Saturation for 10 seconds.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_feather:1b, arteset_BC:1b, CustomModelData:70102}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Bloodstained Final Hour","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eSands of Eon","italic": false},
+
+                {"text": "§fSet: §rBloodstained Chivalry","color": "Dark Red", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Strength.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an enemy, the Wielder","italic": false},
+                {"text": "§fgains Speed and Saturation for 10 seconds.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_clock:1b, arteset_BC:1b, CustomModelData:70103}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Bloodstained Chevalier's Goblet","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eGoblet of Eonothem","italic": false},
+
+                {"text": "§fSet: §rBloodstained Chivalry","color": "Dark Red", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Strength.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an enemy, the Wielder","italic": false},
+                {"text": "§fgains Speed and Saturation for 10 seconds.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_cup:1b, arteset_BC:1b, CustomModelData:70104}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Bloodstained Chevalier's Goblet","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eGoblet of Eonothem","italic": false},
+
+                {"text": "§fSet: §rBloodstained Chivalry","color": "Dark Red", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Strength.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an enemy, the Wielder","italic": false},
+                {"text": "§fgains Speed and Saturation for 10 seconds.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_cup:1b, arteset_BC:1b, CustomModelData:70104}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Bloodstained Iron Mask","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eCirclet of Logos","italic": false},
+
+                {"text": "§fSet: §rBloodstained Chivalry","color": "Dark Red", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Strength.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an enemy, the Wielder","italic": false},
+                {"text": "§fgains Speed and Saturation for 10 seconds.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_crown:1b, arteset_BC:1b, CustomModelData:70105}"
+            }]}
+      ]
+    }
+  ]
+}

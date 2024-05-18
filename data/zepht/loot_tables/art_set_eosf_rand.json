@@ -1,0 +1,104 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Magnificent Tsuba","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eFlower of Life","italic": false},
+
+                {"text": "§fSet: §rEmblem of Severed Fate","color": "#C181FF", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains an electro charge for each kill. ","italic": false},
+                {"text": "§fWielder then gains effects based on how many charges they have","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder can crouch when at 5 charges and","italic": false},
+                {"text": "§fconsume them to summon lightning.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_EoSF:1b, HideFlags:32 ,artefact:1b, arte_flower:1b, CustomModelData:70901}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Sundred Feather","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §ePlume of Death","italic": false},
+
+                {"text": "§fSet: §rEmblem of Severed Fate","color": "#C181FF", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains an electro charge for each kill. ","italic": false},
+                {"text": "§fWielder then gains effects based on how many charges they have","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder can crouch when at 5 charges and","italic": false},
+                {"text": "§fconsume them to summon lightning.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_EoSF:1b, HideFlags:32 ,artefact:1b, arte_feather:1b, CustomModelData:70902}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Storm Cage","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eSands of Eon","italic": false},
+
+                {"text": "§fSet: §rEmblem of Severed Fate","color": "#C181FF", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains an electro charge for each kill. ","italic": false},
+                {"text": "§fWielder then gains effects based on how many charges they have","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder can crouch when at 5 charges and","italic": false},
+                {"text": "§fconsume them to summon lightning.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_EoSF:1b, HideFlags:32 ,artefact:1b, arte_clock:1b, CustomModelData:70903}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Scarlet Vessel","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eGoblet of Eonothem","italic": false},
+
+                {"text": "§fSet: §rEmblem of Severed Fate","color": "#C181FF", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains an electro charge for each kill. ","italic": false},
+                {"text": "§fWielder then gains effects based on how many charges they have","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder can crouch when at 5 charges and","italic": false},
+                {"text": "§fconsume them to summon lightning.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_EoSF:1b, HideFlags:32 ,artefact:1b, arte_cup:1b, CustomModelData:70904}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Ornate Kabuto","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eCirclet of Logos","italic": false},
+
+                {"text": "§fSet: §rEmblem of Severed Fate","color": "#C181FF", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains an electro charge for each kill. ","italic": false},
+                {"text": "§fWielder then gains effects based on how many charges they have","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder can crouch when at 5 charges and","italic": false},
+                {"text": "§fconsume them to summon lightning.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_EoSF:1b, HideFlags:32 ,artefact:1b, arte_crown:1b, CustomModelData:70905}"
+            }]}]
+    }
+  ]
+}

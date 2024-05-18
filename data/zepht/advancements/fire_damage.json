@@ -1,0 +1,20 @@
+{
+  "rewards": {
+    "function": "zepht:trigger_on_fire"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:damage_source_properties",
+            "predicate": {
+              "is_fire": true
+            }
+          }
+        ]
+      }
+    }
+  }
+}

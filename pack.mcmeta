@@ -1,0 +1,6 @@
+{
+    "pack":{
+        "pack_format": 7,
+        "description": "Adds Totems of Rebirth, which allow players to respawn those that have died in hardcore"
+    }
+}

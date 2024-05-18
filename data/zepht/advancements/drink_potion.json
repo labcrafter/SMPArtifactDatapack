@@ -1,0 +1,17 @@
+{
+  "rewards": {
+    "function": "zepht:trigger_drink_potion"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:potion"
+          ]
+        }
+      }
+    }
+  }
+}

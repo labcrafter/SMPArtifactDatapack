@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "zepht:trigger_open_strongbox"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "zepht:strongbox_function"
+      }
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Lavawalker's Resolution","color": "#863FA4","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eFlower of Life","italic": false},
+
+                {"text": "§fSet: §rLavawalker","color": "#F75400", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐","color": "#863FA4","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Glowing and Fire Resistance.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder will lose glowing.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_LavW:1b, HideFlags:32 ,artefact:1b, arte_flower:1b, CustomModelData:70601}"
+            }]}]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Lavawalker's Salvation","color": "#863FA4","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §ePlume of Death","italic": false},
+
+                {"text": "§fSet: §rLavawalker","color": "#F75400", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐","color": "#863FA4","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Glowing and Fire Resistance.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder will lose glowing.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_LavW:1b, HideFlags:32 ,artefact:1b, arte_feather:1b, CustomModelData:70602}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Lavawalker's Torment","color": "#863FA4","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eSands of Eon","italic": false},
+
+                {"text": "§fSet: §rLavawalker","color": "#F75400", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐","color": "#863FA4","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Glowing and Fire Resistance.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder will lose glowing.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_LavW:1b, HideFlags:32 ,artefact:1b, arte_clock:1b, CustomModelData:70603}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Lavawalker's Epiphany","color": "#863FA4","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eGoblet of Eonothem","italic": false},
+
+                {"text": "§fSet: §rLavawalker","color": "#F75400", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐","color": "#863FA4","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Glowing and Fire Resistance.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder will lose glowing.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_LavW:1b, HideFlags:32 ,artefact:1b, arte_cup:1b, CustomModelData:70604}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Lavawalker's Wisdom","color": "#863FA4","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eCirclet of Logos","italic": false},
+
+                {"text": "§fSet: §rLavawalker","color": "#F75400", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐","color": "#863FA4","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Glowing and Fire Resistance.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder will lose glowing.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_LavW:1b, HideFlags:32 ,artefact:1b, arte_crown:1b, CustomModelData:70605}"
+            }]}]
+    }
+  ]
+}

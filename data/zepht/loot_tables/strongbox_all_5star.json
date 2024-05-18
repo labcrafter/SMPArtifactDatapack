@@ -1,0 +1,21 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "zepht:art_set_mb_rand"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "zepht:art_set_vv_rand"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "zepht:art_set_eosf_rand"
+        }
+      ]
+    }
+  ]
+}

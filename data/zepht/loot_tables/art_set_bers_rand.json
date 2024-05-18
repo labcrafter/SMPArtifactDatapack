@@ -1,0 +1,94 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Berserker's Rose","color": "aqua","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eFlower of Life","italic": false},
+
+                {"text": "§fSet: §rBerserker","color": "#007999", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐","color": "aqua","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Slowness and Strength.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder gains Resistance when below half health.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_Bers:1b, HideFlags:32 ,artefact:1b, arte_flower:1b, CustomModelData:71001}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Berserker's Indigo Feather","color": "aqua","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §ePlume of Death","italic": false},
+
+                {"text": "§fSet: §rBerserker","color": "#007999", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐","color": "aqua","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Slowness and Strength.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder gains Resistance when below half health.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_Bers:1b, HideFlags:32 ,artefact:1b, arte_feather:1b, CustomModelData:71002}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Berserker's Timepiece","color": "aqua","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eSands of Eon","italic": false},
+
+                {"text": "§fSet: §rBerserker","color": "#007999", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐","color": "aqua","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Slowness and Strength.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder gains Resistance when below half health.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_Bers:1b, HideFlags:32 ,artefact:1b, arte_clock:1b, CustomModelData:71003}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Berserker's Bone Goblet","color": "aqua","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eGoblet of Eonothem","italic": false},
+
+                {"text": "§fSet: §rBerserker","color": "#007999", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐","color": "aqua","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Slowness and Strength.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder gains Resistance when below half health.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_Bers:1b, HideFlags:32 ,artefact:1b, arte_cup:1b, CustomModelData:71004}"
+            }]},{
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Berserker's Battle Mask","color": "aqua","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eCirclet of Logos","italic": false},
+
+                {"text": "§fSet: §rBerserker","color": "#007999", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐","color": "aqua","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains Slowness and Strength.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder gains Resistance when below half health.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_Bers:1b, HideFlags:32 ,artefact:1b, arte_crown:1b, CustomModelData:71005}"
+            }]}]
+    }
+  ]
+}

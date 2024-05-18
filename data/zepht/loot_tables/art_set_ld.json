@@ -1,0 +1,111 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Lucky Dog's Clover","color": "#5cf46d","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eFlower of Life","italic": false},
+
+                {"text": "§fSet: §rLucky Dog","color": "#53FF57", "italic": false},
+                {"text": "§fRarity: §r⭐⭐","color": "#5cf46d","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains 6 armor.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder is lucky.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_LD:1b, HideFlags:32 ,artefact:1b, arte_flower:1b, CustomModelData:70701}"
+            }]}]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Lucky Dog's Eagle Feather","color": "#5cf46d","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §ePlume of Death","italic": false},
+
+                {"text": "§fSet: §rLucky Dog","color": "#53FF57", "italic": false},
+                {"text": "§fRarity: §r⭐⭐","color": "#5cf46d","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains 6 armor.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder is lucky.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_LD:1b, HideFlags:32 ,artefact:1b, arte_feather:1b, CustomModelData:70702}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Lucky Dog's Hourglass","color": "#5cf46d","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eSands of Eon","italic": false},
+
+                {"text": "§fSet: §rLucky Dog","color": "#53FF57", "italic": false},
+                {"text": "§fRarity: §r⭐⭐","color": "#5cf46d","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains 6 armor.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder is lucky.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_LD:1b, HideFlags:32 ,artefact:1b, arte_clock:1b, CustomModelData:70703}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Lucky Dog's Goblet","color": "#5cf46d","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eGoblet of Eonothem","italic": false},
+
+                {"text": "§fSet: §rLucky Dog","color": "#53FF57", "italic": false},
+                {"text": "§fRarity: §r⭐⭐","color": "#5cf46d","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains 6 armor.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder is lucky.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_LD:1b, HideFlags:32 ,artefact:1b, arte_cup:1b, CustomModelData:70704}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Lucky Dog's Silver Circlet","color": "#5cf46d","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eCirclet of Logos","italic": false},
+
+                {"text": "§fSet: §rLucky Dog","color": "#53FF57", "italic": false},
+                {"text": "§fRarity: §r⭐⭐","color": "#5cf46d","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Wielder gains 6 armor.","italic": false},
+                {"text": "§f§n4-Piece:§f Wielder is lucky.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{arteset_LD:1b, HideFlags:32 ,artefact:1b, arte_crown:1b, CustomModelData:70705}"
+            }]}]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "values":[
+	"minecraft:panda",
+    "minecraft:ravager",
+    "minecraft:horse",
+    "minecraft:zombie_horse",
+    "minecraft:skeleton_horse",
+    "minecraft:donkey",
+    "minecraft:mule",
+
+    "minecraft:llama",
+
+    "minecraft:creeper",
+    "minecraft:witch",
+
+    "minecraft:zombie",
+    "minecraft:drowned",
+    "minecraft:husk",
+    "minecraft:zombie_villager",
+
+    "minecraft:skeleton",
+    "minecraft:stray",
+
+    "minecraft:piglin",
+    "minecraft:piglin_brute",
+    "minecraft:zombified_piglin",
+    "minecraft:blaze",
+
+    "minecraft:villager",
+    "minecraft:pillager",
+    "minecraft:vindicator",
+    "minecraft:evoker",
+
+    "minecraft:elder_guardian",
+    "minecraft:snow_golem",
+    "minecraft:armor_stand",
+    "minecraft:player",
+
+    
+	"minecraft:iron_golem",
+  "minecraft:enderman",
+  "minecraft:wither_skeleton",
+
+  
+  "minecraft:warden",
+  "minecraft:wither"
+  ]
+}

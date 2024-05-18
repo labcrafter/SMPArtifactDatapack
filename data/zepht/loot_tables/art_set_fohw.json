@@ -1,0 +1,121 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Harmoneous Symphony Prelude","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eFlower of Life","italic": false},
+
+                {"text": "§fSet: §rFragment of Harmonic Whimsy","color": "#0061A3", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Reduces Wielder's HP to 4.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an entity, gain 8 hearts","italic": false},
+                {"text": "§fof absorption. While absorption is active, Wielder","italic": false},
+                {"text": "§fgains Speed, Invisibility, Night Vision and Haste.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_flower:1b, arteset_FoHW:1b, CustomModelData:70401}"
+            }]}]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Ancient Sea's Nocturnal Musing","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §ePlume of Death","italic": false},
+
+                {"text": "§fSet: §rFragment of Harmonic Whimsy","color": "#0061A3", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Reduces Wielder's HP to 4.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an entity, gain 8 hearts","italic": false},
+                {"text": "§fof absorption. While absorption is active, Wielder","italic": false},
+                {"text": "§fgains Speed, Invisibility, Night Vision and Haste.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_feather:1b, arteset_FoHW:1b, CustomModelData:70402}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "The Grand Jape of the Turning of Fate","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eSands of Eon","italic": false},
+
+                {"text": "§fSet: §rFragment of Harmonic Whimsy","color": "#0061A3", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Reduces Wielder's HP to 4.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an entity, gain 8 hearts","italic": false},
+                {"text": "§fof absorption. While absorption is active, Wielder","italic": false},
+                {"text": "§fgains Speed, Invisibility, Night Vision and Haste.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_clock:1b, arteset_FoHW:1b, CustomModelData:70403}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Ichor Shadow Rapsody","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eGoblet of Eonothem","italic": false},
+
+                {"text": "§fSet: §rFragment of Harmonic Whimsy","color": "#0061A3", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Reduces Wielder's HP to 4.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an entity, gain 8 hearts","italic": false},
+                {"text": "§fof absorption. While absorption is active, Wielder","italic": false},
+                {"text": "§fgains Speed, Invisibility, Night Vision and Haste.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_cup:1b, arteset_FoHW:1b, CustomModelData:70404}"
+            }]}]
+    },{
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:mojang_banner_pattern",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Whimsical Dance of the Withered","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fSlot: §eCirclet of Logos","italic": false},
+
+                {"text": "§fSet: §rFragment of Harmonic Whimsy","color": "#0061A3", "italic": false},
+                {"text": "§fRarity: §r⭐⭐⭐⭐⭐","color": "gold","italic": false},
+                {"text": ""},
+                {"text": "§f§n2-Piece:§f Reduces Wielder's HP to 4.","italic": false},
+                {"text": "§f§n4-Piece:§f Upon killing an entity, gain 8 hearts","italic": false},
+                {"text": "§fof absorption. While absorption is active, Wielder","italic": false},
+                {"text": "§fgains Speed, Invisibility, Night Vision and Haste.","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,artefact:1b, arte_crown:1b, arteset_FoHW:1b, CustomModelData:70405}"
+            }]}]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item","name": "minecraft:knowledge_book",
+          "functions": [{
+              "function": "minecraft:set_name",
+              "name": {"text": "Artifact Strongbox","color": "gold","bold": true,"italic": false}},
+            {
+              "function": "minecraft:set_lore","lore": [
+                {"text": "§fContains 3 random Artifacts.","italic": false},
+                {"text": "§fRight click to open.","italic": false},
+                {"text": "","italic": false},
+
+                {"text": "§f60%: §r⭐⭐⭐","color": "aqua","italic": false},
+                {"text": "§f30%: §r⭐⭐⭐⭐","color": "#863FA4","italic": false},
+                {"text": "§f10%: §r⭐⭐⭐⭐⭐","color": "gold","italic": false}]},
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{HideFlags:32 ,strongbox:1b, CustomModelData:701, Recipes:[\"zepht:strongbox_function\"]}"
+            }]}]
+    
+    }
+  ]
+}
