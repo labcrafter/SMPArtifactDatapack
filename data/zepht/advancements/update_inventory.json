@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "zepht:trigger_update_inventory"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        
+      }
+    }
+  }
+}

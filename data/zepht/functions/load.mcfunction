@@ -19,6 +19,8 @@ scoreboard objectives add CWoF_Charges dummy
 scoreboard objectives add CWoF_Shooting dummy
 
 scoreboard objectives add ArtSet_MA dummy
+scoreboard objectives add ArtSet_Imag dummy
+scoreboard objectives add frozen dummy
 
 scoreboard objectives add health dummy
 scoreboard objectives add maxHealth dummy
@@ -29,7 +31,7 @@ scoreboard objectives add sneaking minecraft.custom:minecraft.sneak_time
 scoreboard objectives add drankPotion dummy
 scoreboard objectives add onFire dummy
 
-scoreboard objectives add hasHit dummy
+scoreboard objectives add healthGain dummy
 
 
 function zepht:util_unclog_triggers
